@@ -1,4 +1,4 @@
-# Week-1---IA-for-Developers
+# Week-1---AI-for-Developers
 
 # Desafío IA: Transformando un Proceso Tradicional
 
