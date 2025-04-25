@@ -28,30 +28,17 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
   - Intervención humana solo en casos complejos.
 
 **Beneficios esperados:**  
-- Mayor velocidad de respuesta.  
+- Mayor precisión en las respuesta.  
 - Mejora en la personalización.  
 - Capacidad de aprendizaje continuo.  
-- Reducción de costos operativos.
 
 ## 4. Comparativa entre Procesos
-
 | Aspecto                    | Proceso Tradicional              | Solución con IA                         |
 |----------------------------|----------------------------------|-----------------------------------------|
-| Velocidad de respuesta     | Lento                            | Alta, automática                        |
-| Costo operativo            | Alto                             | Bajo, eficiente                         |
-| Consistencia de respuestas | Variable                         | Homogénea y mejorada                   |
-| Adaptabilidad              | Limitada                         | Dinámica, con aprendizaje continuo     |
+| Velocidad de respuesta     | Medio                            | Alta, automática                        |
+| Consistencia de respuestas | Variable                         | Homogénea y mejorada                    |
+| Adaptabilidad              | Limitada                         | Dinámica, con aprendizaje continuo      |
 
 ## 5. Reflexión Personal
 
 Este ejercicio demuestra que la IA no solo mejora la eficiencia, sino que también permite una mayor adaptabilidad y personalización en los procesos. Sin embargo, es crucial asegurar la calidad de los datos, establecer mecanismos de supervisión humana y considerar las implicaciones éticas de cada implementación.
-
----
-
-## Tiempo Sugerido
-
-Dedica entre 30 y 45 minutos para desarrollar esta documentación.
-
-## Entregable
-
-Repositorio en GitHub con un archivo `README.md` que incluya toda la información anterior.
